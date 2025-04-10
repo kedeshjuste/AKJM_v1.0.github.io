@@ -16,3 +16,13 @@ h1{
 .date{
     color: red;
 }
+
+.produits{
+    border: solid 1em rgb(255, 255, 255) ;
+    margin-top: 5%;
+}
+
+.image{
+    margin-left: 5%;
+    margin-top: 1em;
+}

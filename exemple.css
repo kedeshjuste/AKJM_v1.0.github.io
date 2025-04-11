@@ -8,9 +8,9 @@ body{
     background-color: rgb(189, 231, 244);
 }
 
-h1{
-   font-family: 'Franklin Gothic Medium';
+h1 h2{
    color: darkblue; 
+   font-family: fantasy;
 }
 
 .date{
@@ -25,4 +25,9 @@ h1{
 .image{
     margin-left: 5%;
     margin-top: 1em;
+}
+
+p{
+    font-family: cursive;
+    font-size:larger;
 }

@@ -50,15 +50,7 @@ a:hover{
     background-color: rgb(11, 120, 211);
 }
 
-h1{
-    font-family: 'Franklin Gothic Medium';
-    color:rgb(11, 120, 211) ; 
-    text-align: center;
-    margin-top: 2%;
-}
 
-h2{
-    text-align: center;
 }
 
 .date{
@@ -74,4 +66,3 @@ h2{
     margin-left: 7%;
     margin-top: 3%;
 }
-

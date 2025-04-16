@@ -63,6 +63,7 @@ h1{
 
 h2{
     text-align: center;
+    margin: 20px;
 }
 
 .para{
@@ -98,4 +99,44 @@ h2{
 .image{
     margin-left: 7%;
     margin-top: 3%;
+}
+
+input{
+    margin-top: 5%;
+    border: 2px solid rgb(11, 120, 211);
+    padding: 5px;
+    background-color: #daedf188;;
+}
+
+.bouton{
+    border:5px outset  rgb(218, 237, 241);
+    border-radius: 5px;
+    height: 30px;
+    width: 200px;
+    background-color:  rgba(11, 121, 211, 0.667);
+    margin-left: 15%;
+}
+
+label{
+    width: 100px;
+    display: inline-block;;
+}
+
+.formul{
+        width: 350px;
+        margin-left: 453px;
+        margin-top: 25px;
+        border: 10px inset rgb(252, 240, 174);
+        border-radius: 1em;
+        background-color: rgb(255, 255, 255);
+        justify-items: center;
+        padding-bottom: 40px;
+}
+.inscrit{
+    text-decoration: none;
+    border:5px outset  rgb(218, 237, 241);
+    border-radius: 5px;
+    height: 30px;
+    width: 100px;
+    margin-bottom: 30px;
 }
